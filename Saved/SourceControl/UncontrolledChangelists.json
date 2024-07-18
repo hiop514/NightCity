@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work/Unreal Engine Everything/NightCity/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Blocking.umap",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Floating.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Floating1.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Floating2.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Floating3.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/Glass.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/ElevatorAnimation.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_001.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_002.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_003.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_004.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_005.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_006.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/nightcity_Cube_007.uasset",
+				"D:/Work/Unreal Engine Everything/NightCity/Content/UpDown.uasset"
+			]
+		}
+	]
+}
